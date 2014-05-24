@@ -1,0 +1,2 @@
+*Project Abstract*
+Cell count and identification of the cell wall, nucleus, and nucleus’ wall are computed in a given image using morphological and the canny edge detector. MATLAB code is tested on an image and is illustrated with sample images.
